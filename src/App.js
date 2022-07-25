@@ -1,7 +1,8 @@
+import './App.css'
 function App() {
   return (
    <>
-    <h1 style={{color:'red'}}> Hello Aliens ! </h1>
+    <h1 className='external' style={{color:'red'}}> Hello Aliens ! </h1>
    </>
   );
 }
